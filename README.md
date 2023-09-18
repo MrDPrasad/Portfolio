@@ -12,20 +12,10 @@ Sections:
 
 Home: The homepage welcomes visitors with a captivating image, an introduction, and a brief overview of Durga Prasad's background. A social media link bar is also provided for easy access to GitHub and LinkedIn profiles.
 
-About: Discover detailed information about Durga Prasad, including a passionate bio and essential contact details.
-
-Skills: Explore Durga Prasad's proficiency in web development, including HTML, CSS, JavaScript, and more. Visual progress bars make it easy to understand skill levels at a glance.
-
-Services: Learn about the services offered, including web development, UI/UX design, and WordPress development. Each service is presented with an enticing icon and description.
-
-Portfolio: Dive into Durga Prasad's recent projects through an engaging image gallery. Hovering over project images triggers a captivating scaling effect.
-
-Contact: Get in touch with Durga Prasad using the convenient contact form. Simply fill in your name, email, and message, and click "Send" to start a conversation.
-
-Footer: Connect with Durga Prasad on social media platforms like Twitter, Instagram, and YouTube. The footer also includes copyright information.
+The following sections are available on this website: About, Skills, Services, Portfolio, Contact, and Footer. 
 
 Responsive Design:
 The website's responsive design ensures an optimal viewing experience on desktops, tablets, and smartphones. No matter the device, users will enjoy a seamless and visually appealing interaction with the content.
 
 Conclusion:
-Durga Prasad's portfolio website is more than just an online showcase of skills—it's an interactive and visually striking experience. Night mode and mobile responsiveness enhance usability and make this website a standout example of modern web design. Explore this project, and consider using it as a template for your own exciting portfolio website!
+portfolio website is more than just an online showcase of skills—it's an interactive and visually striking experience. Night mode and mobile responsiveness enhance usability and make this website a standout example of modern web design. Explore this project, and consider using it as a template for your own exciting portfolio website!
